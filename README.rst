@@ -26,7 +26,7 @@ Table of Contents
    :local:
 
 The "g" key is pressed
-----------------------
+--------------------
 The following sections explain the physical keyboard actions
 and the OS interrupts. When you press the key "g" the browser receives the
 event and the auto-complete functions kick in.
@@ -40,7 +40,7 @@ with each keypress. It may even suggest "google.com" before you finish typing
 it.
 
 The "enter" key bottoms out
----------------------------
+--------------------
 
 To pick a zero point, let's choose the Enter key on the keyboard hitting the
 bottom of its range. At this point, an electrical circuit specific to the enter
